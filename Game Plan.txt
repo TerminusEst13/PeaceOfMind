@@ -1,0 +1,40 @@
+Run time: One hour (estimated)
+
+Aesthetics: Split into two. 
+    1: In the real world, everything is colorful and bright, black outlines with simple shading. The dark light and the night will blot this out somewhat, but it'll shine in the interiors--the hospitals, the homes, and etc.
+    2: In the bleak world, colors are desaturated dramatically. Noise and film grain filter is applied to everything. Direct contrast to the bright colors and cartoony look of the real world, and easier for the enemies to blend in.
+
+Areas:
+    1: Real world (Town of Something-Or-Other, let's say it has three different areas for now--main square, White Hospital, graveyard)
+        A: Main Square (Most every building is locked up, people are lying in the streets and alleyways. Occaisional madness-driven thug tries to mug you)
+            I: Patient's home (Filled with a few mementos from his history, which should allow easy access into his psyche)
+            II: Jadranka's home (Filled with equipment and tools which might make the mission easier, and/or ways to heal herself)
+        B: White Hospital
+            I: Inside (Just a very long, vertical room with beds/patients on both sides, leading up to the Intensive Care)
+            II: Intensive Care (Holding the patient--this is the room where the Bleak World is accessed)
+        C: Graveyard (Holds little gameplay relevance, just emphasizes how many people have died from this)
+
+    2: Bleak world (The mind of the patient, afflicted and torn by the eldritch madness of the tome from within. Main hub with different areas branching off, and the patient's X (brain? Heart? Soul? Think of something gross!) in the center, ready to fight at any time)
+        A: ??? (Mindscape area 1. Represents ??? and can be treated by ???. Gameplay gimmick is ???. Contains enemies themed after ???)
+        B: ???
+        C: ???
+    3: Library of Carnal Truth (Final room. Inside the tome itself, a long corridor marching down ever deeper in order to purge it)
+
+Game flow:
+    1: Opening cutscene
+    2: Head to hospital.
+    3: Learn of patient.
+    4: Head inside mind.
+    5: Go through Mindscape Area 1
+    6: Diagnose and treat ???, mindscape area 2 is unlocked
+    7: Head to patient's home to learn more about him
+    8: Jumped by thugs, fight them off and then cure them
+    9: Head inside mind, go through Mindscape Area 2
+    10: Diagnose and treat ???, mindscape area 3 is unlocked
+    11: Plague is spreading to other doctors, head to real world in order to treat them and save their lives
+    12: Head inside mind, go through Mindscape Area 3
+    13: Diagnose and treat ???, all chains are broken and anchor is freed
+    14: Tome tries to attach itself to Jadranka
+    15: Go inside tome itself in order to purge it from reality and keep the ancient elder god from walking in this world
+    16: ???
+    17: PROFIT
