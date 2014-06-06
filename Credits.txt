@@ -1,0 +1,8 @@
+SPECIAL THANKS TO:
+=========
+- Enterbrain (For creating RPG Maker in the first place)
+
+MUSIC:
+=========
+- 13_colorfulworld.ogg (Contains samples taken from Beethoven's Moonlight Sonata and Kevin MacLeod's Piano Monologue)
+- 13_title.ogg (An extremely edited rendition of Beethoven's Sonata Pathétique)
