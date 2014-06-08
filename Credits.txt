@@ -6,3 +6,13 @@ MUSIC:
 =========
 - 13_colorfulworld.ogg (Contains samples taken from Beethoven's Moonlight Sonata and Kevin MacLeod's Piano Monologue)
 - 13_title.ogg (An extremely edited rendition of Beethoven's Sonata Pathétique)
+- imp_home.ogg (Edited version of imp's Native Dream)
+
+CODE:
+=========
+- Khas Arcthunder (For creating the Sapphire Action System IV, on which this is partially based)
+
+SOUNDS:
+=========
+- Audacity (Incredible amounts of sound editing thanks to this tool)
+- The General Series 6000 (Numerous stock sound effects)

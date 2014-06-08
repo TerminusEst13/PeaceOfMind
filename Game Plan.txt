@@ -15,9 +15,9 @@ Areas:
         C: Graveyard (Holds little gameplay relevance, just emphasizes how many people have died from this)
 
     2: Bleak world (The mind of the patient, afflicted and torn by the eldritch madness of the tome from within. Main hub with different areas branching off, and the patient's X (brain? Heart? Soul? Think of something gross!) in the center, ready to fight at any time)
-        A: ??? (Mindscape area 1. Represents ??? and can be treated by ???. Gameplay gimmick is ???. Contains enemies themed after ???)
-        B: ???
-        C: ???
+        A: Dragging Walls (Mindscape area 1. Represents aboulia (via derealization), a complete listlessness and apathy towards any activity or movement. Doors are locked and can't be budged open, walls thud down randomly to block her progress. Can be treated by restoring the regular flow of dopamine, which has been hindered by the emotional distress of being personally responsible for this. Contains enemies themed after blackness and listless shadows)
+        B: Purged Lands (Mindscape area 2. Represents xenophobia, the irrational or unreasoned fear of that which is perceived to be foreign or strange. The most hostile of the levels, a creature actively hunts down Jadranka and fire/traps regularly set themselves off around her. Can be treated by accessing his memories and restoring what he knows about the world and the world around it--ends with a false memory of Jadranka, which hints to her about...)
+        C: Downward Spiral (Mindscape area 3. Represents Korsakoff's Syndrome, anterograde and retrograde amnesia with fabricated memories making up the gaps, along with a lack of distinction between reality and fantasy. Rehashes some previous areas combined together, with new bridges made up of strange and illogical structures between them all. Can be treated by restoring a dramatic decrease of thiamine in the brain, having been caused by the tome feeding off him for so long. Contains random objects and items, even Aeger and Jadranka herself as enemies)
     3: Library of Carnal Truth (Final room. Inside the tome itself, a long corridor marching down ever deeper in order to purge it)
 
 Game flow:
