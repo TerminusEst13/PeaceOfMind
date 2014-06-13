@@ -10,7 +10,9 @@ MUSIC:
 
 CODE:
 =========
-- Khas Arcthunder (For creating the Sapphire Action System IV, on which this is partially based)
+- Khas Arcthunder (For creating the Sapphire Action System IV, which this uses as a basis)
+- Mack (The Fixed Parallax script, which this uses for a map)
+- Zerbu (The Title Screen positioning/font/backless text script, which this uses for a, uh, titlescreen)
 
 SOUNDS:
 =========
