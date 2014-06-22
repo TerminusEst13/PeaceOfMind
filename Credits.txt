@@ -6,15 +6,25 @@ MUSIC:
 =========
 - 13_colorfulworld.ogg (Contains samples taken from Beethoven's Moonlight Sonata and Kevin MacLeod's Piano Monologue)
 - 13_title.ogg (An extremely edited rendition of Beethoven's Sonata Pathétique)
-- imp_home.ogg (Edited version of imp's Native Dream)
+- imp_home.ogg (Edited version of imp's Native Dream, acquired off http://freepd.com/)
+- boyko_discuss.ogg (Slightly truncated version of Brian Boyko's Circumspection, acquired off http://freepd.com/)
 
 CODE:
 =========
 - Khas Arcthunder (For creating the Sapphire Action System IV, which this uses as a basis)
 - Mack (The Fixed Parallax script, which this uses for a map)
 - Zerbu (The Title Screen positioning/font/backless text script, which this uses for a, uh, titlescreen)
+- Galv (Visual novel-style choices)
 
 SOUNDS:
 =========
 - Audacity (Incredible amounts of sound editing thanks to this tool)
 - The General Series 6000 (Numerous stock sound effects)
+- Soundjay (An incredible resource of free sound effects)
+
+GRAPHICS:
+=========
+- Digital Graphics Labs (Chancery Cursive font)
+- Vic Fieger (Edo SZ font)
+- offset media (Hero font)
+- Shutterstock (Their collection of stock images)
