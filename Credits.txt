@@ -8,6 +8,7 @@ MUSIC:
 - 13_title.ogg (An extremely edited rendition of Beethoven's Sonata Pathétique)
 - imp_home.ogg (Edited version of imp's Native Dream, acquired off http://freepd.com/)
 - boyko_discuss.ogg (Slightly truncated version of Brian Boyko's Circumspection, acquired off http://freepd.com/)
+- jimmy_discuss.ogg ("Icicles" by James "Jimmy" Paddock, used with permission. http://jamespaddockmusic.com/midis/)
 
 CODE:
 =========
@@ -21,6 +22,9 @@ SOUNDS:
 - Audacity (Incredible amounts of sound editing thanks to this tool)
 - The General Series 6000 (Numerous stock sound effects)
 - Soundjay (An incredible resource of free sound effects)
+- Freesound (Also an incredible resource of free sound effects)
+ ^- SoundCollectah (Finger snap, licensed under CC0 1.0 Public Domain Dedication)
+ ^- DVideoGuy (Pouring liquid, licensed under CC0 1.0 Public Domain Dedication)
 
 GRAPHICS:
 =========
