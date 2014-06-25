@@ -45,3 +45,5 @@ GRAPHICS:
 - Vic Fieger (Edo SZ font)
 - offset media (Hero font)
 - Shutterstock (Their collection of stock images)
+- HamIngram (The basis of the Being battler, edited profusely)
+- PublicDomainPictures.net (Pictured of a broken car windscreen, used for the Game Over screen)
