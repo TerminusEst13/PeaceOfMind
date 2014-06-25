@@ -1,6 +1,7 @@
 SPECIAL THANKS TO:
 =========
-- Enterbrain (For creating RPG Maker in the first place)
+- Enterbrain (For creating RPG Maker in the first place, and the RTP which covered me in a whole ton of areas)
+
 
 MUSIC:
 =========
@@ -8,7 +9,9 @@ MUSIC:
 - 13_title.ogg (An extremely edited rendition of Beethoven's Sonata Pathétique)
 - imp_home.ogg (Edited version of imp's Native Dream, acquired off http://freepd.com/)
 - boyko_discuss.ogg (Slightly truncated version of Brian Boyko's Circumspection, acquired off http://freepd.com/)
-- jimmy_discuss.ogg ("Icicles" by James "Jimmy" Paddock, used with permission. http://jamespaddockmusic.com/midis/)
+- jimmy_discuss.ogg ("Icicles" by James "Jimmy" Paddock, used with permission. http://jamespaddockmusic.com/)
+- jimmy_credits.ogg ("Can You Feel The Entropy?" by James "Jimmy" Paddock, used with permission. http://jamespaddockmusic.com/)
+
 
 CODE:
 =========
@@ -17,14 +20,24 @@ CODE:
 - Zerbu (The Title Screen positioning/font/backless text script, which this uses for a, uh, titlescreen)
 - Galv (Visual novel-style choices)
 
+
 SOUNDS:
 =========
 - Audacity (Incredible amounts of sound editing thanks to this tool)
 - The General Series 6000 (Numerous stock sound effects)
 - Soundjay (An incredible resource of free sound effects)
 - Freesound (Also an incredible resource of free sound effects)
- ^- SoundCollectah (Finger snap, licensed under CC0 1.0 Public Domain Dedication)
- ^- DVideoGuy (Pouring liquid, licensed under CC0 1.0 Public Domain Dedication)
+ ^- SoundCollectah (fingersnap, licensed under CC0 1.0 Public Domain Dedication)
+ ^- DVideoGuy (tea, licensed under CC0 1.0 Public Domain Dedication)
+ ^- DigitalDominic (scream1, licensed under CC0 1.0 Public Domain Dedication)
+ ^- Nanity05 (scream2, licensed under CC0 1.0 Public Domain Dedication)
+ ^- insanity54 (scream3, licensed under CC0 1.0 Public Domain Dedication)
+ ^- queen westeros (scream4, licensed under CC0 1.0 Public Domain Dedication)
+ ^- tcrocker68 (scream5/6, licensed under CC0 1.0 Public Domain Dedication)
+ ^- vampirella17 (scream7, licensed under CC0 1.0 Public Domain Dedication)
+ ^- erh (scream8/9, originally "scream 43.wav" and "scream 60 b.wav", slightly edited and licensed under CC Attribution 3.0 Unported)
+ ^- martian (cloth, licensed under CC0 1.0 Public Domain Dedication)
+
 
 GRAPHICS:
 =========
